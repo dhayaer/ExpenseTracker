@@ -1,0 +1,87 @@
+/* .container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.heading {
+  margin-bottom: 30px;
+}
+
+.form-container {
+  margin-bottom: 20px;
+}
+
+.input {
+  margin-right: 10px;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.button {
+  padding: 5px 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+.total-container {
+  margin-bottom: 20px;
+}
+
+.expense-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.expense-item {
+  margin-bottom: 10px;
+} */
+
+.container {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+}
+
+.heading {
+  text-align: center;
+}
+
+.form-container {
+  margin-top: 20px;
+}
+
+.input {
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 8px;
+}
+
+.button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.total-container {
+  margin-top: 20px;
+}
+
+.expense-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.expense-item {
+  margin-bottom: 5px;
+}
+
+h2 {
+  margin-top: 20px;
+}
